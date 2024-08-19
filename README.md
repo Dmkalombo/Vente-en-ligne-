@@ -1,2 +1,1 @@
-# Vente-en-ligne-
-Projet système informatique pour une entreprise de vente en ligne 
+un projet sur java modéliser avec UML 
